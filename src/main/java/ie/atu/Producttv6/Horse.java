@@ -9,6 +9,9 @@ public class Horse {
 
     public Horse(){
 
+        dam = "";
+        sire = "";
+        height = ""
     }
 
 
