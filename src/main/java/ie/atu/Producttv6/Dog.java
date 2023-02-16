@@ -6,6 +6,9 @@ public class Dog extends Animal{
     private String neutered;
 
     public Dog(){
+        vaccination = "";
+        shedding = "";
+        neutered = "";
 
     }
 
