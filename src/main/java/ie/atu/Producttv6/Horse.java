@@ -5,4 +5,12 @@ public class Horse {
     private String sire;
     private String height;
     protected static int count = 0;
+
+
+    public Horse(){
+
+    }
+
+
 }
+
