@@ -11,7 +11,7 @@ public class Horse {
 
         dam = "";
         sire = "";
-        height = ""
+        height = "";
     }
 
 
